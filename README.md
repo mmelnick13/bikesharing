@@ -13,20 +13,20 @@ The purpose of the analysis is to use data from the Citi Bike program in New Yor
 
 - The majority of subscribers are male
 
-![Chart_1](Chart_1.PNG) 
+![Chart1](Chart1.PNG) 
 
 - The majority of bikes are used for trips under an hour in length
 
-![2](Chart 2.PNG) 
+![2](Chart2.PNG) 
 
 - Males are more likely to be riding the bikes than females for trips under an hour
-![3](Chart 3.PNG) 
+![3](Chart3.PNG) 
 
 - Thursdays from 5-7PM are the most popular times for a bike ride
-![4](Chart 4.PNG) 
+![4](Chart4.PNG) 
 
 - Males use the bikes more and attribute to Thursdays PM popularity 
-![5](Chart 5.PNG) 
+![5](Chart5.PNG) 
 
 ## Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
