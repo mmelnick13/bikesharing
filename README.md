@@ -13,7 +13,7 @@ The purpose of the analysis is to use data from the Citi Bike program in New Yor
 
 - The majority of subscribers are male
 
-![chart1](Chart 1.PNG) 
+![Chart_1](Chart_1.PNG) 
 
 - The majority of bikes are used for trips under an hour in length
 
